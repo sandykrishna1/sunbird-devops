@@ -16,7 +16,6 @@
   - debug:
       var: keycloak_access_token
 
-sunbird_custodian_org_id: "0138129012873707520"
 
 
 # - name: Creating root org
